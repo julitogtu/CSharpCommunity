@@ -1,0 +1,16 @@
+C:\Users\Julitogtu\source\repos\DemoMeetup\DemoMeetup\bin\Debug\netcoreapp2.1\DemoMeetup.deps.json
+C:\Users\Julitogtu\source\repos\DemoMeetup\DemoMeetup\bin\Debug\netcoreapp2.1\DemoMeetup.runtimeconfig.json
+C:\Users\Julitogtu\source\repos\DemoMeetup\DemoMeetup\bin\Debug\netcoreapp2.1\DemoMeetup.runtimeconfig.dev.json
+C:\Users\Julitogtu\source\repos\DemoMeetup\DemoMeetup\bin\Debug\netcoreapp2.1\DemoMeetup.dll
+C:\Users\Julitogtu\source\repos\DemoMeetup\DemoMeetup\bin\Debug\netcoreapp2.1\DemoMeetup.pdb
+C:\Users\Julitogtu\source\repos\DemoMeetup\DemoMeetup\obj\Debug\netcoreapp2.1\DemoMeetup.csprojAssemblyReference.cache
+C:\Users\Julitogtu\source\repos\DemoMeetup\DemoMeetup\obj\Debug\netcoreapp2.1\DemoMeetup.csproj.CoreCompileInputs.cache
+C:\Users\Julitogtu\source\repos\DemoMeetup\DemoMeetup\obj\Debug\netcoreapp2.1\DemoMeetup.RazorAssemblyInfo.cache
+C:\Users\Julitogtu\source\repos\DemoMeetup\DemoMeetup\obj\Debug\netcoreapp2.1\DemoMeetup.RazorAssemblyInfo.cs
+C:\Users\Julitogtu\source\repos\DemoMeetup\DemoMeetup\obj\Debug\netcoreapp2.1\DemoMeetup.AssemblyInfoInputs.cache
+C:\Users\Julitogtu\source\repos\DemoMeetup\DemoMeetup\obj\Debug\netcoreapp2.1\DemoMeetup.AssemblyInfo.cs
+C:\Users\Julitogtu\source\repos\DemoMeetup\DemoMeetup\obj\Debug\netcoreapp2.1\DemoMeetup.RazorTargetAssemblyInfo.cache
+C:\Users\Julitogtu\source\repos\DemoMeetup\DemoMeetup\obj\Debug\netcoreapp2.1\DemoMeetup.dll
+C:\Users\Julitogtu\source\repos\DemoMeetup\DemoMeetup\obj\Debug\netcoreapp2.1\DemoMeetup.pdb
+C:\Users\Julitogtu\source\repos\DemoMeetup\DemoMeetup\bin\Debug\netcoreapp2.1\DemoMeetup.xml
+C:\Users\Julitogtu\source\repos\DemoMeetup\DemoMeetup\obj\Debug\netcoreapp2.1\DemoMeetup.xml

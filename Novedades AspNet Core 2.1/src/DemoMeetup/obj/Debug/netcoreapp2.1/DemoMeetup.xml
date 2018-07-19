@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DemoMeetup</name>
+    </assembly>
+    <members>
+        <member name="T:DemoMeetup.Controllers.User">
+            <summary>
+            Represents an user.
+            </summary>
+        </member>
+        <member name="P:DemoMeetup.Controllers.User.Id">
+            <summary>
+            User id.
+            </summary>
+        </member>
+        <member name="P:DemoMeetup.Controllers.User.Name">
+            <summary>
+            User name.
+            </summary>
+        </member>
+        <member name="T:DemoMeetup.Controllers.UsersController">
+            <summary>
+            Endpoint to manage users.
+            </summary>
+        </member>
+        <member name="M:DemoMeetup.Controllers.UsersController.Get">
+            <summary>
+            Returns all users.
+            </summary>
+            <returns>List of users</returns>
+            <response code="200">Returns the user list</response>
+            <response code="500">Error</response>
+        </member>
+        <member name="M:DemoMeetup.Controllers.UsersController.GetById(System.Int32)">
+            <summary>
+            Returns a user by id.
+            </summary>
+            <param name="id">User id to find.</param>
+            <returns>A user</returns>
+            <response code="200">Returns the user list</response>
+            <response code="404">User with a given id does not exists.</response>
+            <response code="500">Error</response>
+        </member>
+        <member name="M:DemoMeetup.Controllers.UsersController.AddUser(DemoMeetup.Controllers.User)">
+            <summary>
+            Creates a new user.
+            </summary>
+            <param name="user">User information</param>
+            <returns>HTTP Code result</returns>
+            <response code="201">User created</response>
+            <response code="500">Error</response>
+        </member>
+    </members>
+</doc>
